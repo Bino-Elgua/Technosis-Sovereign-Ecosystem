@@ -1,0 +1,48 @@
+[submodule "swibe"]
+	path = swibe
+	url = https://github.com/Bino-Elgua/Swibe
+[submodule "ase-vault"]
+	path = ase-vault
+	url = https://github.com/Bino-Elgua/ase-vault
+[submodule "organism-core"]
+	path = organism-core
+	url = https://github.com/Bino-Elgua/organism-core
+[submodule "osovm"]
+	path = osovm
+	url = https://github.com/Bino-Elgua/Osovm
+[submodule "aio"]
+	path = aio
+	url = https://github.com/Bino-Elgua/AIO
+[submodule "ritual-codex"]
+	path = ritual-codex
+	url = https://github.com/Bino-Elgua/ritual-codex
+[submodule "omokoda"]
+	path = omokoda
+	url = https://github.com/Bino-Elgua/Omokoda
+[submodule "zangbeto"]
+	path = zangbeto
+	url = https://github.com/Bino-Elgua/Zangbeto
+[submodule "evil-twin"]
+	path = evil-twin
+	url = https://github.com/Bino-Elgua/Evil-twin
+[submodule "npc-forge"]
+	path = npc-forge
+	url = https://github.com/Bino-Elgua/Npc-forge
+[submodule "nex"]
+	path = nex
+	url = https://github.com/Bino-Elgua/Nex-
+[submodule "paradigm"]
+	path = paradigm
+	url = https://github.com/Bino-Elgua/paradigm
+[submodule "scarabswarm"]
+	path = scarabswarm
+	url = https://github.com/Bino-Elgua/Scarabswarm
+[submodule "oso-control-center"]
+	path = oso-control-center
+	url = https://github.com/Bino-Elgua/Oso-control-center
+[submodule "techgnosis"]
+	path = techgnosis
+	url = https://github.com/Bino-Elgua/Techgnosis
+[submodule "ifascript"]
+	path = ifascript
+	url = https://github.com/Bino-Elgua/Ifascript

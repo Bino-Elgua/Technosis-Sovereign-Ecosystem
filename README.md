@@ -1,48 +1,41 @@
-# Amp Portfolio - Enterprise Software Suite
+# Technosis Sovereign Ecosystem Hub
 
-## 🚀 Overview
-**Amp Portfolio** is a curated collection of high-value, production-ready software assets designed for the modern digital economy. Spanning Artificial Intelligence, Blockchain (DeFi), Enterprise SaaS, and Creative Tools, this suite represents over **$15 Billion** in Total Addressable Market (TAM).
+This repository serves as the central hub for the Technosis Sovereign Ecosystem. It integrates various core components of the ecosystem as Git submodules, providing a unified view and facilitating coordinated development.
 
-This repository contains detailed architectural breakdowns, monetization strategies, and launch roadmaps for the top performing assets in the portfolio.
+## Ecosystem Structure
 
-## 📚 Portfolio Reports
+The following repositories are integrated as submodules:
 
-### 🔹 Executive Summary
-*   [**MASTER PORTFOLIO REPORT**](./AMP_PORTFOLIO_MASTER_REPORT.md) - Start Here.
+-   **Swibe:** [https://github.com/Bino-Elgua/Swibe](https://github.com/Bino-Elgua/Swibe)
+-   **ase-vault:** [https://github.com/Bino-Elgua/ase-vault](https://github.com/Bino-Elgua/ase-vault)
+-   **organism-core:** [https://github.com/Bino-Elgua/organism-core](https://github.com/Bino-Elgua/organism-core)
+-   **osovm:** [https://github.com/Bino-Elgua/Osovm](https://github.com/Bino-Elgua/Osovm)
+-   **AIO:** [https://github.com/Bino-Elgua/AIO](https://github.com/Bino-Elgua/AIO)
+-   **ritual-codex:** [https://github.com/Bino-Elgua/ritual-codex](https://github.com/Bino-Elgua/ritual-codex)
+-   **Omokoda:** [https://github.com/Bino-Elgua/Omokoda](https://github.com/Bino-Elgua/Omokoda)
+-   **Zangbeto:** [https://github.com/Bino-Elgua/Zangbeto](https://github.com/Bino-Elgua/Zangbeto)
+-   **Evil-twin:** [https://github.com/Bino-Elgua/Evil-twin](https://github.com/Bino-Elgua/Evil-twin)
+-   **npc-forge:** [https://github.com/Bino-Elgua/Npc-forge](https://github.com/Bino-Elgua/Npc-forge)
+-   **nex:** [https://github.com/Bino-Elgua/Nex-](https://github.com/Bino-Elgua/Nex-)
+-   **paradigm:** [https://github.com/Bino-Elgua/paradigm](https://github.com/Bino-Elgua/paradigm)
+-   **scarabswarm:** [https://github.com/Bino-Elgua/Scarabswarm](https://github.com/Bino-Elgua/Scarabswarm)
+-   **oso-control-center:** [https://github.com/Bino-Elgua/Oso-control-center](https://github.com/Bino-Elgua/Oso-control-center)
+-   **Techgnosis:** [https://github.com/Bino-Elgua/Techgnosis](https://github.com/Bino-Elgua/Techgnosis)
+-   **Ifascript:** [https://github.com/Bino-Elgua/Ifascript](https://github.com/Bino-Elgua/Ifascript)
 
-### 🔹 Tier 1: Deploy-Ready (Immediate Revenue)
-*   [Whale Tracker](./REPORT_WHALE_TRACKER.md) - Real-time DeFi Analytics ($1M+ Potential)
-*   [Vanity ETH Pro](./REPORT_VANITY_ETH_PRO.md) - Crypto Privacy & Customization
-*   [Sonic Brand AI](./REPORT_SONIC_BRAND_AI.md) - B2B Generative Audio Branding
+## Missing Submodules
+The following repositories could not be added as submodules due to issues with the remote repository (e.g., empty or no commit checked out):
+-   **Vanity-eth-:** [https://github.com/Bino-Elgua/Vanity-eth-](https://github.com/Bino-Elgua/Vanity-eth-)
+-   **Twelve-thrones:** [https://github.com/Bino-Elgua/Twelve-thrones](https://github.com/Bino-Elgua/Twelve-thrones)
 
-### 🔹 Tier 2: High Growth (Near-Ready)
-*   [SwarmIDE2](./REPORT_SWARMIDE2.md) - Enterprise Multi-Agent Orchestration
-*   [Echo Companion](./REPORT_ECHO_COMPANION.md) - AI Language & Mental Health Tutor
-*   [Storyweaver](./REPORT_STORYWEAVER.md) - AI Book Publishing Platform
-*   [Visual Health Companion](./REPORT_VISUAL_HEALTH_COMPANION.md) - Digital Twin Health Tracking
+## Getting Started
 
-### 🔹 Tier 3: Strategic & Specialized
-*   [CoreDNA2](./REPORT_COREDNA2.md) - Design System Management
-*   [Vibe Coder](./REPORT_VIBE_CODER.md) - Context-Aware AI Coding Assistant
-*   [AICouncil](./REPORT_AICOUNCIL.md) - Decentralized AI Governance
-*   [GamerWingman](./REPORT_GAMERWINGMAN.md) - AI eSports Coaching
-*   [Cassandra Oracle](./REPORT_CASSANDRA_ORACLE.md) - Predictive Blockchain Analytics
+To clone this repository and initialize its submodules:
 
-### 🔹 Tier 4: Emerging Tech
-*   [ClipForge](./REPORT_CLIP_FORGE.md) - Viral Video Repurposing
-*   [CloakSeed](./REPORT_CLOAKSEED.md) - Seed Phrase Security
-*   [AseMirror](./REPORT_ASEMIRROR.md) - Interactive Digital Art Installation
+```bash
+git clone git@github.com:Bino-Elgua/Technosis-Sovereign-Ecosystem.git
+cd Technosis-Sovereign-Ecosystem
+git submodule update --init --recursive
+```
 
-## 🛠 Technology Stack
-The suite is built on a unified, scalable modern stack:
-*   **Frontend:** Next.js (React), TailwindCSS, Flutter
-*   **Backend:** Node.js, Python (FastAPI)
-*   **Data:** Supabase (PostgreSQL), Redis, Vector DBs
-*   **AI:** OpenAI, Anthropic, LangChain
-*   **Web3:** Solidity, Hardhat, Ethers.js
-
-## 📄 License
-All assets within this portfolio are proprietary. Access to source code and deployment rights is subject to licensing agreements.
-
-## 📬 Contact
-For investment inquiries, acquisition offers, or technical deep-dives, please contact the portfolio manager.
+This will pull down all the integrated component repositories into their respective directories.
