@@ -14,19 +14,16 @@ The following repositories are integrated as submodules:
 -   **ritual-codex:** [https://github.com/Bino-Elgua/ritual-codex](https://github.com/Bino-Elgua/ritual-codex)
 -   **Omokoda:** [https://github.com/Bino-Elgua/Omokoda](https://github.com/Bino-Elgua/Omokoda)
 -   **Zangbeto:** [https://github.com/Bino-Elgua/Zangbeto](https://github.com/Bino-Elgua/Zangbeto)
+-   **Vanity-eth-:** [https://github.com/Bino-Elgua/Vanity-eth-](https://github.com/Bino-Elgua/Vanity-eth-)
 -   **Evil-twin:** [https://github.com/Bino-Elgua/Evil-twin](https://github.com/Bino-Elgua/Evil-twin)
 -   **npc-forge:** [https://github.com/Bino-Elgua/Npc-forge](https://github.com/Bino-Elgua/Npc-forge)
 -   **nex:** [https://github.com/Bino-Elgua/Nex-](https://github.com/Bino-Elgua/Nex-)
 -   **paradigm:** [https://github.com/Bino-Elgua/paradigm](https://github.com/Bino-Elgua/paradigm)
 -   **scarabswarm:** [https://github.com/Bino-Elgua/Scarabswarm](https://github.com/Bino-Elgua/Scarabswarm)
+-   **Twelve-thrones:** [https://github.com/Bino-Elgua/Twelve-thrones](https://github.com/Bino-Elgua/Twelve-thrones)
 -   **oso-control-center:** [https://github.com/Bino-Elgua/Oso-control-center](https://github.com/Bino-Elgua/Oso-control-center)
 -   **Techgnosis:** [https://github.com/Bino-Elgua/Techgnosis](https://github.com/Bino-Elgua/Techgnosis)
 -   **Ifascript:** [https://github.com/Bino-Elgua/Ifascript](https://github.com/Bino-Elgua/Ifascript)
-
-## Missing Submodules
-The following repositories could not be added as submodules due to issues with the remote repository (e.g., empty or no commit checked out):
--   **Vanity-eth-:** [https://github.com/Bino-Elgua/Vanity-eth-](https://github.com/Bino-Elgua/Vanity-eth-)
--   **Twelve-thrones:** [https://github.com/Bino-Elgua/Twelve-thrones](https://github.com/Bino-Elgua/Twelve-thrones)
 
 ## Getting Started
 

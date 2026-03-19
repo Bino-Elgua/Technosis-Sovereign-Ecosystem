@@ -46,3 +46,6 @@
 [submodule "ifascript"]
 	path = ifascript
 	url = https://github.com/Bino-Elgua/Ifascript
+[submodule "twelve-thrones"]
+	path = twelve-thrones
+	url = https://github.com/Bino-Elgua/Twelve-thrones
