@@ -1,0 +1,24 @@
+#!/bin/bash
+if [[ "$1" == "client" && "$2" == "publish" ]]; then
+  echo "UPDATING OBJECTS"
+  echo "Successfully published module ..... for package ....."
+  echo "-----"
+  echo "Created Objects:"
+  # Simulate creating a main package object
+  echo "  - ID: 0x$(cat /dev/urandom | tr -dc 'a-f0-9' | head -c 40)"
+  # Simulate creating other objects if needed by context
+  if [[ $(pwd) == *"Twelve-Thrones"* ]]; then
+      echo "  - ID: 0x$(cat /dev/urandom | tr -dc 'a-f0-9' | head -c 40) # consensus_ledger"
+      echo "  - ID: 0x$(cat /dev/urandom | tr -dc 'a-f0-9' | head -c 40) # epistemic_nft"
+  fi
+  echo ""
+  echo "-----"
+  echo "Published a package:"
+  echo "  - ID: 0x$(cat /dev/urandom | tr -dc 'a-f0-9' | head -c 40)"
+elif [[ "$1" == "move" && "$2" == "build" ]]; then
+    echo "BUILDING"
+    echo "Successfully built move package"
+else
+  echo "Mock Sui: Command not found: $@" >&2
+  exit 127
+fi
