@@ -67,3 +67,6 @@
 [submodule "franken-stream"]
 	path = franken-stream
 	url = git@github.com:Bino-Elgua/franken-stream.git
+[submodule "agent-tv"]
+	path = agent-tv
+	url = git@github.com:Bino-Elgua/Agent.TV.git
