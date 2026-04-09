@@ -22,9 +22,6 @@
 [submodule "zangbeto"]
 	path = zangbeto
 	url = https://github.com/Bino-Elgua/Zangbeto
-[submodule "evil-twin"]
-	path = evil-twin
-	url = https://github.com/Bino-Elgua/Evil-twin
 [submodule "npc-forge"]
 	path = npc-forge
 	url = https://github.com/Bino-Elgua/Npc-forge
@@ -49,3 +46,18 @@
 [submodule "twelve-thrones"]
 	path = twelve-thrones
 	url = https://github.com/Bino-Elgua/Twelve-thrones
+[submodule "sign-wise"]
+	path = sign-wise
+	url = git@github.com:Bino-Elgua/Sign-wise.git
+[submodule "vanity-cloakseed"]
+	path = vanity-cloakseed
+	url = git@github.com:Bino-Elgua/vanity-cloakseed.git
+[submodule "swarmide2"]
+	path = swarmide2
+	url = git@github.com:Bino-Elgua/Swarmide2.git
+[submodule "ifascript-standalone"]
+	path = ifascript-standalone
+	url = git@github.com:Bino-Elgua/ifascript.git
+[submodule "lattice-phase1"]
+	path = lattice-phase1
+	url = git@github.com:Bino-Elgua/lattice-phase1.git
