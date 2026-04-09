@@ -61,3 +61,9 @@
 [submodule "lattice-phase1"]
 	path = lattice-phase1
 	url = git@github.com:Bino-Elgua/lattice-phase1.git
+[submodule "sacred-core-agency"]
+	path = sacred-core-agency
+	url = git@github.com:Bino-Elgua/Sacred-cored-agency.git
+[submodule "franken-stream"]
+	path = franken-stream
+	url = git@github.com:Bino-Elgua/franken-stream.git
